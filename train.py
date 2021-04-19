@@ -13,7 +13,7 @@ parser.add_argument("--lamda", dest="lam", type=float, metavar='<float>', defaul
 parser.add_argument("--belta", dest="belta", type=float, metavar='<float>', default=0.8)
 parser.add_argument("--gpu", dest="b", type=str, default='0')
 parser.add_argument("--window", dest="win", type=int, default=5)
-parser.add_argument("--lr", dest="lr", type=int, default=0.005)
+parser.add_argument("--lr", dest="lr", type=float, default=0.005)
 args = parser.parse_args()
 
 os.environ["CUDA_VISIBLE_DEVICES"] = args.b
