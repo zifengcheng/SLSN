@@ -8,7 +8,9 @@ A Symmetric Local Search Network for Emotion-Cause Pair Extraction
 - PyTorch 1.4.0
 
 # Training
-
+```shell
+python train.py --lamda 0.6 --belta 0.8 --window 5 --lr 0.005
+```
 # Citation
 
 If you think the codes & paper are helpful, please cite this paper. Thank you! 
