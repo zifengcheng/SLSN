@@ -1,3 +1,5 @@
+# A Symmetric Local Search Network for Emotion-Cause Pair Extraction
+
 This repo contains the code of the following paper:
 
 A Symmetric Local Search Network for Emotion-Cause Pair Extraction
@@ -7,15 +9,15 @@ A Symmetric Local Search Network for Emotion-Cause Pair Extraction
 - Python 3.6
 - PyTorch 1.4.0
 
-# Training
+## Training
 ```shell
 python train.py --lamda 0.6 --belta 0.8 --window 5 --lr 0.005
 ```
 
-# Word embedding
+## Word embedding
 You can use the [url](https://github.com/NUSTM/ECPE/tree/master/data_combine) to download word embedding file w2v_200.txt and put this file in the data folder.
 
-# Citation
+## Citation
 
 If you think the codes & paper are helpful, please cite this paper. Thank you! 
 
