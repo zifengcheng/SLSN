@@ -1,6 +1,6 @@
 # A Symmetric Local Search Network for Emotion-Cause Pair Extraction
 
-This repo contains the code of the following paper:
+This repo contains the code of our COLING2020 paper:
 
 A Symmetric Local Search Network for Emotion-Cause Pair Extraction
 
