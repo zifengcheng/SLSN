@@ -37,9 +37,6 @@ If you think the codes & paper are helpful, please cite this paper. Thank you!
   year      = {2020},
   url       = {https://doi.org/10.18653/v1/2020.coling-main.12},
   doi       = {10.18653/v1/2020.coling-main.12},
-  timestamp = {Fri, 08 Jan 2021 21:21:24 +0100},
-  biburl    = {https://dblp.org/rec/conf/coling/ChengJYYG20.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
